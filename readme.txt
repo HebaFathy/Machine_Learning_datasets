@@ -1,5 +1,6 @@
 Appling different machine learning techniques 
 in smaller dataset (soybeans) and larger dataset (Nursery - Pima)
 
-# first run Data-Prep.r file
-# then run [dataset-name].r
+#  applying decision tree and randomforest in nursery
+#  applying naive and rpart in pima
+#  applying J48 and ID3 in soybean
