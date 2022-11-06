@@ -1,4 +1,6 @@
-Appling different machine learning techniques 
-in smaller dataset (soybeans) and larger dataset (Pima)
-#  applying naive and rpart in pima
-#  applying J48 and ID3 in soybean
+Appling different machine learning techniques Using R programming Language
+
+in smaller dataset (soybeans) and larger dataset such as (Nursery & Pima)
+#  applying naive and rpart on pima
+#  applying J48 and ID3 on soybean
+#  appling tree, rpart on nursery
